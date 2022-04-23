@@ -1,4 +1,4 @@
-#삽입 정렬 Solution 1-1
+#삽입 정렬 Solution 1
 def find_ins_idx(r,v):
     for i in range(len(r)):
         # 정렬된 리스트에서 자신보다 작은 값들을 모두 지나고 큰 값 바로 앞에서 멈춘 위치, i

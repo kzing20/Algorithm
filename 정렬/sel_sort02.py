@@ -8,5 +8,5 @@ def sel_sort(a):
         # for 문이 끝났으면 min_idx 안에 최소값의 위치가 들어있다.
         a[i], a[min_idx] = a[min_idx], a[i]
         print(a)
-d = [2, 5, 6, 3, 1]
+d = [2, 4,5,1,3]
 sel_sort(d)

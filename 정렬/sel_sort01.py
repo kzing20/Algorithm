@@ -1,4 +1,4 @@
-#삽입 정렬 Solution 1-2
+#선택 정렬 Solution 1
 def find_min_idx(a):
     n = len(a)
     min_idx = 0
